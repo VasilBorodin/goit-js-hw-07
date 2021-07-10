@@ -1,3 +1,4 @@
+//первое д.з.
 const categorsEl = document.querySelectorAll(".item");
 const categorAmount = categorsEl.length;
 console.log(`В списке ${categorAmount} категории.`);
